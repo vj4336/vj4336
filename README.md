@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vj
+- 👋 Hi, I’m Moses "VJ" Ateka XI
 - 👀 I’m interested in Cybersecurity,CTFs,Gaming
 - 🌱 I’m currently learning Offensive Pentesting and Computer Science
 - 💞️ I’m looking to collaborate on Red Teaming projects,CTFs
